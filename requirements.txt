@@ -2,4 +2,4 @@ streamlit
 openai
 yfinance
 pandas
-pandas-ta
+pandas_ta==0.3.14b0
